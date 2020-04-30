@@ -1,0 +1,62 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "welcome to the Asquasdspawn",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "welcome to the Asquasdspawn",
+          "x": 320,
+          "y": 96
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "images.png",
+          "name": "images.png",
+          "x": 317,
+          "y": 171
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Start the mod now",
+          "onClick": {
+            "name": "Closewelcomeprocedure"
+          },
+          "width": 340,
+          "height": 40,
+          "name": "Start the mod now",
+          "x": 256,
+          "y": 124
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "unless you're gay",
+          "onClick": {
+            "name": "Ifyouregayprocedure"
+          },
+          "width": 340,
+          "height": 40,
+          "name": "unless you're gay",
+          "x": 256,
+          "y": 363
+        }
+      }
+    ]
+  }
+}

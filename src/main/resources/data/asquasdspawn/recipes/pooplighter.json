@@ -1,0 +1,23 @@
+{
+  "group": "asquasdspawn",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "asquasdspawn:poopportalbloc"
+    },
+    "1": {
+      "item": "asquasdspawn:poopportalbloc"
+    },
+    "2": {
+      "item": "asquasdspawn:poopportalbloc"
+    }
+  },
+  "result": {
+    "item": "asquasdspawn:poopdimension",
+    "count": 1
+  }
+}

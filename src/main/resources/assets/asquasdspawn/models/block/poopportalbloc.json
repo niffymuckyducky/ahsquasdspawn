@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "asquasdspawn:blocks/poop",
+    "up": "asquasdspawn:blocks/poop",
+    "north": "asquasdspawn:blocks/poop",
+    "east": "asquasdspawn:blocks/poop",
+    "south": "asquasdspawn:blocks/poop",
+    "west": "asquasdspawn:blocks/poop",
+    "particle": "asquasdspawn:blocks/poop"
+  }
+}

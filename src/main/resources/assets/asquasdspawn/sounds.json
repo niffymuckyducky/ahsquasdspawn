@@ -1,0 +1,56 @@
+{
+  "chungusnoise": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "asquasdspawn:untitled",
+        "stream": false
+      }
+    ]
+  },
+  "chungusdeath": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "asquasdspawn:chungusdeath",
+        "stream": false
+      }
+    ]
+  },
+  "ewwstinky": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "asquasdspawn:ewwstinhky",
+        "stream": false
+      }
+    ]
+  },
+  "poopsound": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "asquasdspawn:poop_sound",
+        "stream": false
+      }
+    ]
+  },
+  "kalennword": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "asquasdspawn:kalen_saying_n_word",
+        "stream": false
+      }
+    ]
+  },
+  "samuelnword": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "asquasdspawn:samuel_saying___",
+        "stream": false
+      }
+    ]
+  }
+}

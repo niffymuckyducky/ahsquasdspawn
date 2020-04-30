@@ -1,0 +1,40 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Kalen saying N word",
+          "onClick": {
+            "name": "KalenSayingNword"
+          },
+          "width": 380,
+          "height": 40,
+          "name": "Kalen saying N word",
+          "x": 236,
+          "y": 160
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Samuel Saying N word",
+          "onClick": {
+            "name": "SamuelNword"
+          },
+          "width": 400,
+          "height": 40,
+          "name": "Samuel Saying N word",
+          "x": 236,
+          "y": 226
+        }
+      }
+    ]
+  }
+}

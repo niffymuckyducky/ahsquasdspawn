@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "asquasdspawn:block/poopdimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "asquasdspawn:block/poopdimension_portal_ns"
+    }
+  }
+}
